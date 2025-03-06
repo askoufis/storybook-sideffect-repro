@@ -1,0 +1,11 @@
+{
+  "name": "side-effect-package",
+  "main": "index.js",
+  "type": "module",
+  "sideEffects": true,
+  "exports": {
+    "./set": "./set.js",
+    "./check": "./check.js",
+    "./other": "./other.js"
+  }
+}
