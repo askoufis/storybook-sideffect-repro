@@ -1,5 +1,9 @@
 # Storybook Side-effect Issue Reproduction
 
+[Upstream issue](https://github.com/storybookjs/storybook/issues/30768).
+
+**EDIT**: Appears to be fixed as of Storybook v9
+
 ## Reproduction steps
 
 1. `git clone https://github.com/askoufis/storybook-sideffect-repro`
